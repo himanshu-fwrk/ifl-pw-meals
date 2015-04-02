@@ -1,0 +1,129 @@
+===================================================2015-04-02 08:11:33 am=======================================================
+<-----Params------>
+Array
+(
+    [plugin] => 
+    [controller] => story
+    [action] => undefined
+    [named] => Array
+        (
+        )
+
+    [pass] => Array
+        (
+        )
+
+    [ext] => mp4
+    [isAjax] => 
+    [models] => Array
+        (
+            [Globalsetting] => Array
+                (
+                    [plugin] => 
+                    [className] => Globalsetting
+                )
+
+            [Combination] => Array
+                (
+                    [plugin] => 
+                    [className] => Combination
+                )
+
+            [Vendor] => Array
+                (
+                    [plugin] => 
+                    [className] => Vendor
+                )
+
+            [Review] => Array
+                (
+                    [plugin] => 
+                    [className] => Review
+                )
+
+            [CombinationsReview] => Array
+                (
+                    [plugin] => 
+                    [className] => AppModel
+                )
+
+        )
+
+)
+
+<-----Data------>
+Array
+(
+)
+
+<-----Query------>
+Array
+(
+)
+
+<-----Location------>
+/story/undefined.mp4
+============================================================Over=================================================================
+===================================================2015-04-02 08:11:33 am=======================================================
+<-----Params------>
+Array
+(
+    [plugin] => 
+    [controller] => story
+    [action] => undefined
+    [named] => Array
+        (
+        )
+
+    [pass] => Array
+        (
+        )
+
+    [ext] => mp4
+    [isAjax] => 
+)
+
+<-----Data------>
+Array
+(
+)
+
+<-----Query------>
+Array
+(
+)
+
+<-----Location------>
+/story/undefined.mp4
+============================================================Over=================================================================
+===================================================2015-04-02 08:11:33 am=======================================================
+<-----Params------>
+Array
+(
+    [plugin] => 
+    [controller] => story
+    [action] => undefined
+    [named] => Array
+        (
+        )
+
+    [pass] => Array
+        (
+        )
+
+    [ext] => mp4
+)
+
+<-----Data------>
+Array
+(
+)
+
+<-----Query------>
+Array
+(
+)
+
+<-----Location------>
+/story/undefined.mp4
+============================================================Over=================================================================
